@@ -1,0 +1,38 @@
+[package]
+name = "llamaloganalyzer-mlx"
+version = "2.0.0"
+edition = "2021"
+authors = ["LlamaLogAnalyzer Team"]
+description = "LlamaLogAnalyzer MLX Edition: A Rust/Python hybrid log analyzer with ML-powered insights"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+rayon = "1.8.0"
+chrono = { version = "0.4.31", features = ["serde"] }
+regex = "1.9.5"
+serde = { version = "1.0.188", features = ["derive"] }
+serde_json = "1.0.107"
+pyo3 = { version = "0.20.0", features = ["extension-module"] }
+tokio = { version = "1.32.0", features = ["full"] }
+futures = "0.3.28"
+thiserror = "1.0.48"
+anyhow = "1.0.75"
+clap = { version = "4.4.6", features = ["derive", "env"] }
+tui = { package = "ratatui", version = "0.23.0" }
+crossterm = "0.27.0"
+colored = "2.0.4"
+indicatif = "0.17.7"
+console = "0.15.7"
+log = "0.4.20"
+env_logger = "0.10.0"
+csv = "1.2.2"
+plotters = "0.3.5"
+itertools = "0.11.0"
+statrs = "0.16.0"
+ndarray = "0.15.6"
+polars = { version = "0.33.2", features = ["lazy"] }
+
+[[bin]]
+name = "llamaloganalyzer-mlx"
+path = "src/bin/main.rs"

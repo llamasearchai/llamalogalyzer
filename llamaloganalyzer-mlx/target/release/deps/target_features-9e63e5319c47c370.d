@@ -1,0 +1,13 @@
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/deps/libtarget_features-9e63e5319c47c370.rmeta: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/simd.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.md /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/docs.rs
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/deps/libtarget_features-9e63e5319c47c370.rlib: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/simd.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.md /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/docs.rs
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/deps/target_features-9e63e5319c47c370.d: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/simd.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.md /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/docs.rs
+
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/lib.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-features-0.1.6/src/simd.rs:
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.md:
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/generated.rs:
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out/docs.rs:
+
+# env-dep:OUT_DIR=/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/build/target-features-da16ed636b55bd38/out

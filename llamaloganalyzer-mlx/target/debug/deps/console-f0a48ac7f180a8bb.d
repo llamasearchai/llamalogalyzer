@@ -1,0 +1,11 @@
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/deps/libconsole-f0a48ac7f180a8bb.rmeta: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/common_term.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/kb.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/term.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/unix_term.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/utils.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/ansi.rs
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/deps/console-f0a48ac7f180a8bb.d: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/common_term.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/kb.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/term.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/unix_term.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/utils.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/ansi.rs
+
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/lib.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/common_term.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/kb.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/term.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/unix_term.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/utils.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.10/src/ansi.rs:

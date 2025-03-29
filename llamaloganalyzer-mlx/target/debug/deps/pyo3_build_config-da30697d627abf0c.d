@@ -1,0 +1,14 @@
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/deps/libpyo3_build_config-da30697d627abf0c.rmeta: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/errors.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/impl_.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config-file.txt /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config.txt
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/deps/libpyo3_build_config-da30697d627abf0c.rlib: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/errors.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/impl_.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config-file.txt /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config.txt
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/deps/pyo3_build_config-da30697d627abf0c.d: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/errors.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/impl_.rs /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config-file.txt /Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config.txt
+
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/lib.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/errors.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.3/src/impl_.rs:
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config-file.txt:
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.20.3
+# env-dep:OUT_DIR=/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/build/pyo3-build-config-84dac47780205dc3/out

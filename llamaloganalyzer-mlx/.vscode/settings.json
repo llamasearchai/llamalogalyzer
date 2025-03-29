@@ -1,0 +1,28 @@
+{
+    "rust-analyzer.checkOnSave.command": "clippy",
+    "rust-analyzer.procMacro.enable": true,
+    "rust-analyzer.cargo.allFeatures": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [100],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/target": true,
+        "**/__pycache__": true,
+        "**/venv": true
+    },
+    "cSpell.words": [
+        "chrono",
+        "crossterm",
+        "llamaloganalyzer",
+        "ratatui",
+        "rayon",
+        "statrs",
+        "tokio"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "python.analysis.typeCheckingMode": "basic"
+} 

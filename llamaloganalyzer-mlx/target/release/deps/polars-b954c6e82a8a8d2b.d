@@ -1,0 +1,15 @@
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/deps/libpolars-b954c6e82a8a8d2b.rmeta: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/mod.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/eager.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/lazy.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/performance.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/export.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/prelude.rs
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/deps/libpolars-b954c6e82a8a8d2b.rlib: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/mod.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/eager.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/lazy.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/performance.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/export.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/prelude.rs
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/release/deps/polars-b954c6e82a8a8d2b.d: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/mod.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/eager.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/lazy.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/performance.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/export.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/prelude.rs
+
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/lib.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/mod.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/eager.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/lazy.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/docs/performance.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/export.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polars-0.33.2/src/prelude.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.33.2

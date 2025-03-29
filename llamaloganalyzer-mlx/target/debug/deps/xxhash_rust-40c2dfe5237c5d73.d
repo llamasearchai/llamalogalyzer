@@ -1,0 +1,10 @@
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/deps/libxxhash_rust-40c2dfe5237c5d73.rmeta: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/utils.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh32_common.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh64_common.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh3_common.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh3.rs
+
+/Users/nemesis/llamalogalyzer/llamaloganalyzer-mlx/target/debug/deps/xxhash_rust-40c2dfe5237c5d73.d: /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/lib.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/utils.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh32_common.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh64_common.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh3_common.rs /Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh3.rs
+
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/lib.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/utils.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh32_common.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh64_common.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh3_common.rs:
+/Users/nemesis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xxhash-rust-0.8.15/src/xxh3.rs:

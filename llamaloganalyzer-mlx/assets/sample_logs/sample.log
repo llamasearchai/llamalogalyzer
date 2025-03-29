@@ -1,0 +1,13 @@
+2023-05-15 08:12:34 [INFO] Application started
+2023-05-15 08:12:35 [DEBUG] Configuration loaded from /etc/config.json
+2023-05-15 08:12:36 [INFO] Connected to database
+2023-05-15 08:14:28 [WARNING] Slow query detected (2.5s)
+2023-05-15 08:15:43 [ERROR] Failed to connect to backup server
+2023-05-15 08:15:45 [ERROR] Retry connection failed
+2023-05-15 08:16:02 [INFO] Fallback to secondary server
+2023-05-15 08:16:05 [INFO] Connected to secondary server
+2023-05-15 08:18:23 [DEBUG] Cache refresh completed
+2023-05-15 08:25:11 [INFO] Processing batch job #1242
+2023-05-15 08:30:45 [INFO] Batch job completed
+2023-05-15 08:31:03 [INFO] Starting scheduled maintenance
+2023-05-15 08:45:22 [INFO] Maintenance completed
