@@ -24,7 +24,7 @@ pip install llamalogalyzer
 
 ### Install from source
 ```bash
-git clone https://github.com/llamasearchai/llamalogalyzer.git
+git clone https://llamasearch.ai
 cd llamalogalyzer
 pip install -e .
 ```
@@ -42,7 +42,7 @@ print(results)
 ```
 
 ## Documentation
-For full documentation, visit [our documentation site](https://llamasearchai.github.io/llamalogalyzer/).
+For full documentation, visit [our documentation site](https://llamasearch.ai
 
 ## Examples
 See the `examples/` directory for more usage examples.
@@ -54,9 +54,9 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Related Projects
-- [llamaindex](https://github.com/llamasearchai/llamaindex)
-- [llamasearch](https://github.com/llamasearchai/llamasearch)
-- [llamagraph](https://github.com/llamasearchai/llamagraph)
+- [llamaindex](https://llamasearch.ai
+- [llamasearch](https://llamasearch.ai
+- [llamagraph](https://llamasearch.ai
 
 ## Roadmap
 - Advanced integration with vector databases
